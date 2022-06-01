@@ -2,7 +2,7 @@
 
 ## 分类
 
-![image-20220510095521806](C:\Users\Peach\AppData\Roaming\Typora\typora-user-images\image-20220510095521806.png)
+![image-20220510095521806](https://github.com/yetao1121/Sort_Algorithm/blob/main/image-20220510095521806.png)
 
 ## 各排序算法比较
 
